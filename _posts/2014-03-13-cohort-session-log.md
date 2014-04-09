@@ -31,6 +31,9 @@ Learning goals
 4. any random ideas that you had during the session ?
 
 ### @agooniz feedback
+FINALLY! I've figured out what I was asked to do! Special thanks to John for guiding me. Shamiul also deserves some credit for convincing me to join this course.
+
+From this course I do not expect to be the perfect ROR DEV but I do expect to understand the logics behind ROR coding and knowledge of some development. I know people spend years and years studying one subject to be the master at it and they do not succed. I can just go on and on about this and turn this feedback into an actual article to be published somewhere on the web but for now I will stop here... Thanks JD.
 
 ### @shammowla feedback
 
