@@ -12,3 +12,12 @@ categories: jekyll update
 - introduce the coders checklist
 - as an instructor, i feel our energy is a bit off track and I want to correct that
 - every class starts and end with a log-post, expectation, observations/outcomes, commits
+
+
+### today's commands
+
+```
+  git log
+  git branch
+  git show
+```
