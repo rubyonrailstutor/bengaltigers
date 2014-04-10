@@ -7,7 +7,7 @@ categories: jekyll update
 
 ### RUBY
 
-#### BASIC 
+#### BASIC
 - load a script file into irb
 - differentiate printing vs returning a value
 - demonstrate using different versions of running ruby on a file
@@ -26,7 +26,7 @@ categories: jekyll update
 
 ### GIT
 
-- initialize a repo
+- initialize a repo ["rubyonrailstutor", "agooniz", "shammowla"]
 - clone a repo
 - demonstrate how to ignore files
 - add a file to staging
@@ -51,12 +51,12 @@ categories: jekyll update
 - validate active record objects
 - interpolate data into a view
 - deploy app to production
-- what is haml and what is the biproduct of using it ? 
+- what is haml and what is the biproduct of using it ?
 
 ### html/css
 
-- what goes into the source of an html page ? 
-- what are classes and ids ? 
+- what goes into the source of an html page ?
+- what are classes and ids ?
 - the box model
 - float vs positioning
 - scss vs css
