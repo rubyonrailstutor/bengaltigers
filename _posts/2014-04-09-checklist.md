@@ -8,39 +8,39 @@ categories: jekyll update
 ### RUBY
 
 #### BASIC
-- load a script file into irb
-- differentiate printing vs returning a value
-- demonstrate using different versions of running ruby on a file
-- demonstrate how to define a method
-- demonstate how to invoke a method
-- demontrate how to invoke a method on something
-- what is a parameter
-- if then control flow, unless and return statements
+- load a script file into irb ["rubyonrailstutor", "agooninz", "shammowla"]
+- differentiate printing vs returning a value ["rubyonrailstutor", "agooninz", "shammowla"]
+- demonstrate using different versions of running ruby on a file ["rubyonrailstutor", "agooninz", "shammowla"]
+- demonstrate how to define a method ["rubyonrailstutor", "agooninz", "shammowla"]
+- demonstate how to invoke a method ["rubyonrailstutor", "agooninz", "shammowla"]
+- demontrate how to invoke a method on something ["rubyonrailstutor", "agooninz", "shammowla"]
+- what is a parameter ["rubyonrailstutor", "agooninz", "shammowla"]
+- if then control flow, unless and return statements ["rubyonrailstutor", "agooninz", "shammowla"]
 
 #### INTERMEDIATE
 
-- create an object
-- iterate on a collection
-- demonstrate the difference in objects
+- create an object ["rubyonrailstutor", "agooninz", "shammowla"]
+- iterate on a collection ["rubyonrailstutor", "agooninz", "shammowla"]
+- demonstrate the difference in objects ["rubyonrailstutor", "agooninz", "shammowla"]
 
 
 ### GIT
 
-- initialize a repo ["rubyonrailstutor", "agooniz", "shammowla"]
-- clone a repo
-- demonstrate how to ignore files
-- add a file to staging
-- unstage a file
-- check status
+- initialize a repo ["rubyonrailstutor", "agooninz", "shammowla"]
+- clone a repo ["rubyonrailstutor", "agooninz", "shammowla"]
+- demonstrate how to ignore files ["rubyonrailstutor", "agooninz", "shammowla"]
+- add a file to staging ["rubyonrailstutor", "agooninz", "shammowla"]
+- unstage a file ["rubyonrailstutor", "agooninz", "shammowla"]
+- check status ["rubyonrailstutor", "agooninz", "shammowla"]
 - view a diff
-- create a commit
-- push to origin
-- pull remote changes onto local changes
-- master vs branches
-- resolve a conflict
-- merge a branch onto master
-- push to a remote branch
-- rebase master vs merge onto
+- create a commit ["rubyonrailstutor", "agooninz", "shammowla"]
+- push to origin ["rubyonrailstutor", "agooninz", "shammowla"]
+- pull remote changes onto local changes ["rubyonrailstutor", "agooninz", "shammowla"]
+- master vs branches ["rubyonrailstutor", "agooninz", "shammowla"]
+- resolve a conflict ["rubyonrailstutor", "agooninz", "shammowla"]
+- merge a branch onto master ["rubyonrailstutor", "agooninz", "shammowla"]
+- push to a remote branch ["rubyonrailstutor", "agooninz", "shammowla"]
+- rebase master vs merge onto ["rubyonrailstutor", "agooninz", "shammowla"]
 
 ### RAILS
 
@@ -49,9 +49,9 @@ categories: jekyll update
 - create a form that saves a record
 - create active record associations
 - validate active record objects
-- interpolate data into a view
-- deploy app to production
-- what is haml and what is the biproduct of using it ?
+- interpolate data into a view 
+- deploy app to production 
+- what is haml and what is the biproduct of using it ? 
 
 ### html/css
 
