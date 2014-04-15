@@ -33,7 +33,8 @@ categories: jekyll update
   # Git commands step by step
   git status
   git add .
-  git commit
+  git status (optional)
+  git commit (git commit -m "some comment")
   git push
   git status (optional)
 
