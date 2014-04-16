@@ -8,9 +8,12 @@ categories: ruby objects
 today:
 
 1.  build a building
+
+
 - load the below code into irb
 - walkthrough how the objects fit togther
 - some kind of small replicant of this
+
 
 1. begin compiling a vocabulary page
 1. add css to the main blog to start getting things to take on a different style
