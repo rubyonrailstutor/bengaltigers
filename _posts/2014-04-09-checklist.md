@@ -11,17 +11,17 @@ categories: jekyll update
 - load a script file into irb ["rubyonrailstutor", "agooninz", "shammowla"]
 - differentiate printing vs returning a value ["rubyonrailstutor", "agooninz", "shammowla"]
 - demonstrate using different versions of running ruby on a file ["rubyonrailstutor", "agooninz", "shammowla"]
-- demonstrate how to define a method ["rubyonrailstutor", "agooninz", "shammowla"]
-- demonstate how to invoke a method ["rubyonrailstutor", "agooninz", "shammowla"]
-- demontrate how to invoke a method on something ["rubyonrailstutor", "agooninz", "shammowla"]
-- what is a parameter ["rubyonrailstutor", "agooninz", "shammowla"]
-- if then control flow, unless and return statements ["rubyonrailstutor", "agooninz", "shammowla"]
+- demonstrate how to define a method ["rubyonrailstutor"]
+- demonstate how to invoke a method ["rubyonrailstutor"]
+- demontrate how to invoke a method on something ["rubyonrailstutor"]
+- what is a parameter ["rubyonrailstutor"]
+- if then control flow, unless and return statements ["rubyonrailstutor"]
 
 #### INTERMEDIATE
 
-- create an object ["rubyonrailstutor", "agooninz", "shammowla"]
-- iterate on a collection ["rubyonrailstutor", "agooninz", "shammowla"]
-- demonstrate the difference in objects ["rubyonrailstutor", "agooninz", "shammowla"]
+- create an object ["rubyonrailstutor"]
+- iterate on a collection ["rubyonrailstutor"]
+- demonstrate the difference in objects ["rubyonrailstutor"]
 
 
 ### GIT
@@ -30,17 +30,17 @@ categories: jekyll update
 - clone a repo ["rubyonrailstutor", "agooninz", "shammowla"]
 - demonstrate how to ignore files ["rubyonrailstutor", "agooninz", "shammowla"]
 - add a file to staging ["rubyonrailstutor", "agooninz", "shammowla"]
-- unstage a file ["rubyonrailstutor", "agooninz", "shammowla"]
-- check status ["rubyonrailstutor", "agooninz", "shammowla"]
+- unstage a file ["rubyonrailstutor"]
+- check status ["rubyonrailstutor"]
 - view a diff
 - create a commit ["rubyonrailstutor", "agooninz", "shammowla"]
 - push to origin ["rubyonrailstutor", "agooninz", "shammowla"]
 - pull remote changes onto local changes ["rubyonrailstutor", "agooninz", "shammowla"]
 - master vs branches ["rubyonrailstutor", "agooninz", "shammowla"]
-- resolve a conflict ["rubyonrailstutor", "agooninz", "shammowla"]
-- merge a branch onto master ["rubyonrailstutor", "agooninz", "shammowla"]
+- resolve a conflict ["rubyonrailstutor"]
+- merge a branch onto master ["rubyonrailstutor"]
 - push to a remote branch ["rubyonrailstutor", "agooninz", "shammowla"]
-- rebase master vs merge onto ["rubyonrailstutor", "agooninz", "shammowla"]
+- rebase master vs merge onto ["rubyonrailstutor"]
 
 ### RAILS
 
