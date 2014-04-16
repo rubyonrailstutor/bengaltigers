@@ -13,6 +13,9 @@ today:
 2. walkthrough how the objects fit togther
 3. some kind of small replicant of this
 
+4. begin compiling a vocabulary page
+5. add css to the main blog to start getting things to take on a different style
+
 
 ```
 class Room
