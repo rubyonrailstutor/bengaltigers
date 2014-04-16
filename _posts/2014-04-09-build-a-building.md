@@ -7,14 +7,18 @@ categories: ruby objects
 
 today:
 
--  build a building
+1.  build a building
+- load the below code into irb
+- walkthrough how the objects fit togther
+- some kind of small replicant of this
 
-1. load the below code into irb
-2. walkthrough how the objects fit togther
-3. some kind of small replicant of this
+1. begin compiling a vocabulary page
+1. add css to the main blog to start getting things to take on a different style
+1. do some free association of keywords/vocabulary
+1. why did i remove the qualifications from the checklist ? 
+1. how to read a diff in git ? 
 
-4. begin compiling a vocabulary page
-5. add css to the main blog to start getting things to take on a different style
+> git log, git show, git diff
 
 
 ```
