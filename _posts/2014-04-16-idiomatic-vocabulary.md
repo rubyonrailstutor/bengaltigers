@@ -20,3 +20,10 @@ GIT
 Ruby
 
 Architecture
+
+```
+# Handle bars
+{{ }}
+# For refrence visit http://github.github.com/github-flavored-markdown/
+
+```
