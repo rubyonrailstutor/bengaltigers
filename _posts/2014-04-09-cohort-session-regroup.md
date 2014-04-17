@@ -14,42 +14,7 @@ categories: jekyll update
 - every class starts and end with a log-post, expectation, observations/outcomes, commits
 
 
-### today's commands
-
-```
-  git log
-  git branch
-  git show
-```
-
-### commands used to get to location
-
-```
-	git log
-	git pull
-	git fetch
-	git remote -v
-
-  # Git commands step by step
-  git status
-  git add .
-  git status (optional)
-  git commit (git commit -m "some comment")
-  git push
-  git status (optional)
-
-	# Remove a defined directory
-	rm -rf somedir/ 
-
-	# Display all hidden files or directroy
-	ls -al
-
-	# File extention that changes automatically to HTML (Mark Down file)
-	.md
-
-	#Command used to exit out of VIM
-	q
-```
-
 ### TODO
 - Figure out how to do soft tab in sublie with 2 spaces.
+#  "tab_size": 2,
+#  "translate_tabs_to_spaces": true
