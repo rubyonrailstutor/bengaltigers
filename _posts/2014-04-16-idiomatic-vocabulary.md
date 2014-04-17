@@ -13,6 +13,10 @@ categories: ruby objects
 
 Tools
 
+GIT
+
+  - checkout
+
 Ruby
 
 Architecture
